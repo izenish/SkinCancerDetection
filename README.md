@@ -6,7 +6,8 @@ SkinCancerDetection using Ham10000 Dataset
 https://drive.google.com/file/d/12UybS14iYLLCkaI7Lrlv4r09Qc8ycpuc/view?usp=sharing
 
 
-### Install node_modules under both web/
+### Install node_modules under both<br />
+web/<br />
 and web/client
 
 
